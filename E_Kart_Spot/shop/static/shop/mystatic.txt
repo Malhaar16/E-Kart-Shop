@@ -1,0 +1,1 @@
+Now this tis the static file for Shop applications. This file will definately run smoothly in first go. Hurray!!!!
